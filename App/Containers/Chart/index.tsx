@@ -1,6 +1,6 @@
 import React from 'react';
 import Wrapper from '../../Components/Commons/Wrapper';
-import { TouchableOpacity, View, Text } from 'react-native-ui-lib';
+import {TouchableOpacity, Text} from 'react-native-ui-lib';
 export default function Chart() {
   return (
     <Wrapper>
